@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Husaam  
 ## 💼 IT Support Specialist | Problem Solver | Lifelong Learner
 
-Driven by curiosity and growth, I focus on solving real-world technical challenges while continuously building my skills. Passionate about creating reliable solutions and evolving into a top-tier tech professional.
+Certified **Google IT Support Professional**, driven by curiosity and growth, I focus on solving real-world technical challenges while continuously building my skills. Passionate about creating reliable solutions and evolving into a top-tier tech professional.
 
 ---
 
@@ -56,6 +56,12 @@ Automated repetitive IT tasks to save time, reduce errors, and improve system re
 
 ---
 
+## 🏅 Certifications
+![Google IT Support](https://img.shields.io/badge/Google_IT_Support-Certified-blue?logo=google&logoColor=white)  
+- **Google IT Support Professional Certificate** – Verified IT support fundamentals, troubleshooting, networking, system administration, and security skills.
+
+---
+
 ## 🛠️ Tools & Technologies
 ![PowerShell](https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=white)  
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windowsserver&logoColor=white)  
@@ -66,26 +72,25 @@ Automated repetitive IT tasks to save time, reduce errors, and improve system re
 
 ---
 
-## 📊 GitHub Stats
-![Muhammad Husaam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-husaam&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-husaam&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Key Impact
 - ⚡ Automated repetitive IT tasks, reducing manual effort by ~70–80%  
 - ⏱️ Improved system maintenance efficiency and uptime  
 - 🛠️ Built and managed realistic Active Directory environments  
-- 🔍 Strengthened troubleshooting, networking, and security skills with measurable results
+- 🔍 Strengthened troubleshooting, networking, and security skills with measurable results  
+- 🏅 **Google IT Support Professional Certified**
 
-    ## 🚀 Future Projects – Advanced IT Support
+---
+
+## 🚀 Future Projects – Advanced IT Support
 
 ### 🔧 PowerShell Automation
 - **Automated Incident Response Script** (`incident-response.ps1`) – Auto-remediate critical errors. **Response time reduced from hours to minutes**  
 - **User Onboarding Automation** (`user-onboarding.ps1`) – Auto-create users, assign licenses/folders. **Manual onboarding time reduced ~70%**  
 - **VPN Deployment via PowerShell** (`vpn-deploy.ps1`) – Auto-configure VPN for multiple clients. **Setup time reduced ~90%**  
 - **Automated Software Updates for Bulk Systems** (`bulk-update.ps1`) – Update multiple machines automatically. **50+ systems updated in <15 minutes**  
-- **System Inventory Report** (`inventory-report.ps1`) – Weekly hardware/software audit. **Complete visibility for all systems**
+- **System Inventory Report** (`inventory-report.ps1`) – Weekly hardware/software audit. **Complete visibility for all systems**  
+- **Customer Ticket Automation Script** (`ticket-automation.ps1`) – Automatically triage, assign, and log tickets. **Reduced response time by ~50%**  
+- **Support Workflow Integration** (`ticket-integration.ps1`) – Integrate scripts with Jira, ServiceNow, Freshdesk. **Improved IT support efficiency**
 
 ### 🌐 Network & Security
 - **Network Connectivity Dashboard** (`network-dashboard.ps1`) – Monitor ping/uptime. **Proactive issue detection**  
@@ -93,7 +98,8 @@ Automated repetitive IT tasks to save time, reduce errors, and improve system re
 - **Automated Bandwidth Monitor** (`bandwidth-monitor.ps1`) – Alerts on traffic thresholds. **Prevent network congestion**  
 - **Wi-Fi Strength Mapping** (`wifi-map.ps1`) – Detect weak coverage areas. **Improve Wi-Fi reliability**  
 - **Automated Security Audit Script** (`security-audit.ps1`) – Firewall, antivirus, policy checks. **Weekly compliance reports**  
-- **SIEM Simulation / Logging Integration** (`siem-sim.ps1`) – Event logging and anomaly detection. **Simulated real-time monitoring**
+- **SIEM Simulation / Logging Integration** (`siem-sim.ps1`) – Event logging and anomaly detection. **Simulated real-time monitoring**  
+- **Support Ticket Analytics** (`ticket-analytics.ps1`) – Reports on ticket resolution times, SLA compliance, and team performance. **Actionable metrics for IT operations**
 
 ### 👥 Active Directory
 - **Dynamic AD Group Management** (`ad-group-automation.ps1`) – Move users based on role/department. **Manual updates reduced ~80%**  
@@ -104,7 +110,14 @@ Automated repetitive IT tasks to save time, reduce errors, and improve system re
 
 ---
 
+## 🎉 Fun Facts About Me
+- ⚡ I once automated a file cleanup task just for fun and freed 10GB in one day!  
+- 🖥️ I enjoy creating small PowerShell scripts to simplify everyday tasks.  
+- 🎮 I sometimes name my lab VMs after Star Wars characters.  
+- ⏱️ I like starting my mornings by writing a tiny automation snippet.  
+- 🤖 Outside IT, I tinker with mini robots and IoT devices.  
+- 📊 I enjoy visualizing network and AD data to discover patterns and efficiencies.  
 
 ---
 
-⭐ *Focused on solving real-world IT problems through automation, practical labs, and measurable impact.*
+⭐ *Focused on solving real-world IT problems through automation, practical labs, customer support integration, and continuous learning.*
